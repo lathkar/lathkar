@@ -1,2 +1,1 @@
-# lathkar
-GitHub Pages
+Author | Corporate Trainer | Subject Matter Expert
