@@ -23,6 +23,6 @@
 
 ### 📫 How to Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/malharlathkar/
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-- **Email:** your.email@example.com
+- **Website:** https://lathkar.co.in/
+- **Email:** mlathkar@gmail.com
 
