@@ -20,14 +20,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- **LinkedIn:** [://linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/malharlathkar/))
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 - **Email:** your.email@example.com
 
