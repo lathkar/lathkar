@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Malhar%20Lathkar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Building%20AI%20Systems%20%7C%20Writing%20Books%20%7C%20Teaching%20Developers&descSize=19&descAlignY=60"/>
+
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Malhar Lathkar Banner">
+</p>
 
 ---
 <div align="center">
