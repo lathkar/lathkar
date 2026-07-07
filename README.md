@@ -22,7 +22,7 @@
 
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/malharlathkar/)
+- **LinkedIn:** https://www.linkedin.com/in/malharlathkar/
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 - **Email:** your.email@example.com
 
