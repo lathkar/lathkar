@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:F7931E&height=200&section=header&text=Divyansh%20Bhardwaj&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Teaching%20Engineers%20to%20Think,%20Not%20Just%20Code&descSize=20&descAlignY=55">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:F7931E&height=200&section=header&text=Divyansh%20Bhardwaj&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Teaching%20Engineers%20to%20Think,%20Not%20Just%20Code&descSize=20&descAlignY=55">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:F7931E&height=200&section=header&text=Divyansh%20Bhardwaj&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Teaching%20Engineers%20to%20Think,%20Not%20Just%20Code&descSize=20&descAlignY=55" width="100%">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Malhar%20Lathkar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Building%20AI%20Systems%20%7C%20Writing%20Books%20%7C%20Teaching%20Developers&descSize=19&descAlignY=60"/>
 
 ---
 <div align="center">
@@ -26,11 +22,23 @@
   
 ## 📚 Books
 
-| Book | Publisher | Link |
-|------|-----------|------|
-| 📘 High-Performance Web Apps with FastAPI | BPB | Amazon |
-| 📙 Flask Web Development | BPB | Amazon |
-| 📗 Django Web Development | Apress | Amazon |
+<p align="center">
+  <a href="#">
+    <img src="assets/BPB PDP_cover.png" width="170" alt="Data Persistence">
+  </a>
+
+  <a href="#">
+    <img src="assets/BPB Flask cover.png" width="170" alt="Flask">
+  </a>
+
+  <a href="#">
+    <img src="assets/Apress FastAPI Cover.png" width="170" alt="FastAPI">
+  </a>
+  
+  <a href="#">
+    <img src="assets/Apress Django cover.png" width="170" alt="Django">
+  </a>  
+</p>
   </div>
 
   ---
