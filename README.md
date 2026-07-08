@@ -4,12 +4,16 @@
 </p>
 
 ---
+  
+## Hi there, I'm Malhar 👋
+
+I'm a technical author, educator, and AI Solutions Architect with over 30 years of experience in software engineering and higher education.
+
+I enjoy building AI-enabled backend systems, writing technical books, and helping developers master modern technologies.
+
+---
 <div align="center">
   
-# MALHAR LATHKAR
-  
-### 🎯  Author | Educator | Subject Matter Expert | AI Engineer
-
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/malharlathkar)
 [![Email](https://img.shields.io/badge/✉️_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:mlathkar@gmail.com)
 [![Website](https://img.shields.io/badge/🌐_Website-My_Classes-2EA44F?style=for-the-badge)](https://lathkar.co.in)
@@ -42,11 +46,9 @@
     <img src="assets/Apress Django cover.png" width="170" alt="Django">
   </a>  
 </p>
-  </div>
 
   ---
-  
-<div align="center">
+
 
 ## 💼 Training Snapshot
 
