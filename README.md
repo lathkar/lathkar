@@ -31,7 +31,7 @@ I enjoy building AI-enabled backend systems, writing technical books, and helpin
 
 <p align="center">
   <a href="#">
-    <img src="assets/BPB PDP_cover.png" width="18%" alt="Data Persistence">
+    <img src="assets/BPB PDP Cover.png" width="18%" alt="Data Persistence">
   </a>
 
   <a href="#">
