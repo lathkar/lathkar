@@ -45,6 +45,10 @@ I enjoy building AI-enabled backend systems, writing technical books, and helpin
   <a href="#">
     <img src="assets/Apress Django cover.png" width="170" alt="Django">
   </a>  
+
+  <a href="#">
+    <img src="assets/Apress WDE cover.png" width="170" alt="Django">
+  </a>    
 </p>
 
   ---
