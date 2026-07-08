@@ -35,7 +35,7 @@ I enjoy building AI-enabled backend systems, writing technical books, and helpin
   </a>
 
   <a href="#">
-    <img src="assets/BPB Flask cover.png" width="18%" alt="Flask">
+    <img src="assets/BPB Flask Cover.png" width="18%" alt="Flask">
   </a>
 
   <a href="#">
@@ -47,7 +47,7 @@ I enjoy building AI-enabled backend systems, writing technical books, and helpin
   </a>  
 
   <a href="#">
-    <img src="assets/Apress WDE cover.png" width="18%" alt="Django">
+    <img src="assets/Apress WDE cover.png" width="18%" alt="Web Development">
   </a>    
 </p>
 
