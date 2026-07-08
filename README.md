@@ -31,23 +31,23 @@ I enjoy building AI-enabled backend systems, writing technical books, and helpin
 
 <p align="center">
   <a href="#">
-    <img src="assets/BPB PDP_cover.png" width="170" alt="Data Persistence">
+    <img src="assets/BPB PDP_cover.png" width="18%" alt="Data Persistence">
   </a>
 
   <a href="#">
-    <img src="assets/BPB Flask cover.png" width="170" alt="Flask">
+    <img src="assets/BPB Flask cover.png" width="18%" alt="Flask">
   </a>
 
   <a href="#">
-    <img src="assets/Apress FastAPI Cover.png" width="170" alt="FastAPI">
+    <img src="assets/Apress FastAPI Cover.png" width="18%" alt="FastAPI">
   </a>
   
   <a href="#">
-    <img src="assets/Apress Django cover.png" width="170" alt="Django">
+    <img src="assets/Apress Django cover.png" width="18%" alt="Django">
   </a>  
 
   <a href="#">
-    <img src="assets/Apress WDE cover.png" width="170" alt="Django">
+    <img src="assets/Apress WDE cover.png" width="18%" alt="Django">
   </a>    
 </p>
 
